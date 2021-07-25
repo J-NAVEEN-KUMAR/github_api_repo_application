@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fondamento&display=swap');
+
+.card-title,th {
+  font-family: 'Fondamento', cursive;
+  color: #1d3557;
+}
+.reposlist{
+  font-family: 'Permanent Marker', cursive;
+}
+
+.card-img-top {
+  height: 500px;
+}
